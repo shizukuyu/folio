@@ -72,9 +72,10 @@ cv:
 
       - company: GDS Holdings Ltd.
         position: Large Language Model Intern 
-        location: Shanhhai, China
+        location: Shanghai, China
         start_date: 2024-01-01
         end_date: 2024-06-30
+        summary: Large Language Model Intern at GDS Holdings Ltd., where I worked on developing and fine-tuning large language models for various applications, including natural language processing and machine learning tasks.
 
       # - company: Karl-Ferdinand University
       #   position: Professor of Theoretical Physics

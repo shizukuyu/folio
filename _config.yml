@@ -71,6 +71,12 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
+cv_pdf: /assets/pdf/CV_SuwenJin.pdf
+email: suwen.jin@polimi.it
+#scholar_userid: qc6CJjYAAAAJ 
+github_username: shizukuyu
+linkedin_username: suwen-jin
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
