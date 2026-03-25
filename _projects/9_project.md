@@ -2,7 +2,7 @@
 layout: page
 title: Photography - Travel ✈️
 description: Life snapshot 🎉
-img: assets/img/6.jpg
+img: assets/img/66.jpg
 importance: 4
 category: fun
 ---
@@ -42,6 +42,6 @@ Some interesting travel snippets, continuously updated.
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Zurich
 </div>
 

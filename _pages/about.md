@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -19,7 +19,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -28,6 +28,6 @@ latest_posts:
 
   My research focuses on understanding and modeling how decisions are made in real-world systems under uncertainty. I am particularly interested in inverse reinforcement learning, sequential decision processes, and data-driven policy optimization.
 
-  Before my PhD, I studied Computer Science at University College Dublin, where I developed a strong interest in machine learning and data-driven modeling.
+  I eceived my Master's degree in Computer Science at University College Dublin, where I developed a strong interest in machine learning and data-driven modeling.
 
   Email: suwen.jin [at] polimi.it
