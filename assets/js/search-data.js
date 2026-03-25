@@ -430,7 +430,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/folio/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/folio/assets/pdf/CV_SuwenJin.pdf", "_blank");
         },
       },{
         id: 'social-email',
