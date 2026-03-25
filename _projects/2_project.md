@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Urban Mobility and Activity Visualization
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Master Project Part B:Urban Mobility and Activity Visualization
+description: Master Project
+img: assets/img/12.jpg
 importance: 2
 category: work
 giscus_comments: true
