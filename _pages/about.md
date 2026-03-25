@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=''>Affiliations</a>. 金苏雯
+subtitle: 金苏雯
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    # <p>Email: suwen.jin [AT] polimi.it</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- I am a PhD student at Politecnico di Milano(advised by Prof. Matteo Giuliani), working on machine learning for complex decision-making systems.
+ I am a first-year PhD student at Politecnico di Milano (advised by <a href='https://giuliani.faculty.polimi.it/'>Matteo Giuliani</a>), working on machine learning for complex decision-making systems.
 
   My research focuses on understanding and modeling how decisions are made in real-world systems under uncertainty. I am particularly interested in inverse reinforcement learning, sequential decision processes, and data-driven policy optimization.
 
   Before my PhD, I studied Computer Science at University College Dublin, where I developed a strong interest in machine learning and data-driven modeling.
+
+  Email: suwen.jin [at] polimi.it
