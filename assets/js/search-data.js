@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Stay tuned for more 💐",
           section: "Navigation",
           handler: () => {
             window.location.href = "/folio/projects/";
@@ -400,19 +400,19 @@ ninja.data = [{
           section: "News",},{id: "news-i-start-my-phd-jounney-at-politechnico-di-milano-sparkles-smile",
           title: 'I start my PhD jounney at Politechnico di Milano.:sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-regional-reanalysis-data-display",
-          title: 'Regional Reanalysis Data Display',
-          description: "with background image",
+          section: "News",},{id: "projects-research-assistant-project-regional-reanalysis-data-display",
+          title: 'Research Assistant Project - Regional Reanalysis Data Display',
+          description: "Research Assistant Project",
           section: "Projects",handler: () => {
               window.location.href = "/folio/projects/1_project/";
-            },},{id: "projects-urban-mobility-and-activity-visualization",
-          title: 'Urban Mobility and Activity Visualization',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-master-project-part-b-urban-mobility-and-activity-visualization",
+          title: 'Master Project Part B:Urban Mobility and Activity Visualization',
+          description: "Master Project",
           section: "Projects",handler: () => {
               window.location.href = "/folio/projects/2_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-photography-travel-️",
+          title: 'Photography - Travel ✈️',
+          description: "Life snapshot 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/folio/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
