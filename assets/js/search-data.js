@@ -397,8 +397,8 @@ ninja.data = [{
           section: "News",},{id: "news-presented-a-poster-at-the-aogs-2025-conference",
           title: 'Presented a poster at the AOGS 2025 conference.',
           description: "",
-          section: "News",},{id: "news-i-start-my-phd-jounney-at-politechnico-di-milano-sparkles-smile",
-          title: 'I start my PhD jounney at Politechnico di Milano.:sparkles: :smile:',
+          section: "News",},{id: "news-start-my-phd-jounney-at-politechnico-di-milano-sparkles-smile",
+          title: 'Start my PhD jounney at Politechnico di Milano.:sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-research-assistant-project-regional-reanalysis-data-display",
           title: 'Research Assistant Project - Regional Reanalysis Data Display',
@@ -440,11 +440,18 @@ ninja.data = [{
           window.open("mailto:%73%75%77%65%6E.%6A%69%6E@%70%6F%6C%69%6D%69.%69%74", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://github.com/shizukuyu", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/suwen-jin", "_blank");
         },
       },{
       id: 'light-theme',
