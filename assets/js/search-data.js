@@ -451,7 +451,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/suwen-jin", "_blank");
+          window.open("https://www.linkedin.com/in/suwen-j-1a1089220", "_blank");
         },
       },{
       id: 'light-theme',
