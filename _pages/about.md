@@ -22,6 +22,7 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
 ---
 
  I am a first-year PhD student at Politecnico di Milano (advised by <a href='https://giuliani.faculty.polimi.it/'>Matteo Giuliani</a>), working on machine learning for complex decision-making systems.
@@ -31,3 +32,4 @@ latest_posts:
   I eceived my Master's degree in Computer Science at University College Dublin, where I developed a strong interest in machine learning and data-driven modeling.
 
   Email: suwen.jin [at] polimi.it
+
