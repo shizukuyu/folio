@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shizukuyu.github.io/folio/sitemap.xml
+Sitemap: https://suwenjin.com/sitemap.xml
