@@ -5,7 +5,7 @@ description: Research Assistant Project
 img: assets/img/3.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This work develops an interactive visualization framework for analyzing hourly wind trajectories and temperature distributions across multiple pressure levels. Users can explore vertical atmospheric structures and temporal dynamics through layer selection and animation. The underlying datasets, originally in NetCDF format, are preprocessed and transformed into JSON to support efficient web-based visualization.

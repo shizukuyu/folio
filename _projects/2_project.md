@@ -5,7 +5,7 @@ description: Master Project
 img: assets/img/12.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 This module provides a visualization of taxi zone busyness levels across different dates. By selecting a specific date, users can explore the spatial distribution of activity intensity within the city, enabling intuitive analysis of urban mobility patterns.

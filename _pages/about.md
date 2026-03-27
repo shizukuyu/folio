@@ -25,11 +25,10 @@ latest_posts:
 
 ---
 
- I am a first-year PhD student at Politecnico di Milano (advised by <a href='https://giuliani.faculty.polimi.it/'>Matteo Giuliani</a>), working on machine learning for complex decision-making systems.
+I am a first-year PhD student at Politecnico di Milano, advised by <a href="https://giuliani.faculty.polimi.it/">Matteo Giuliani</a>. My research is part of the <a href="https://behavioralintelligence.eu/">BERLIN Project</a>, which focuses on integrating behavioral intelligence and machine learning for complex socio-environmental systems.
 
-  My research focuses on understanding and modeling how decisions are made in real-world systems under uncertainty. I am particularly interested in inverse reinforcement learning, sequential decision processes, and data-driven policy optimization.
+My research focuses on understanding and modeling how decisions are made in real-world systems under uncertainty. I am particularly interested in inverse reinforcement learning, sequential decision processes, and data-driven policy optimization.
 
-  I eceived my Master's degree in Computer Science at University College Dublin, where I developed a strong interest in machine learning and data-driven modeling.
+I received my Master’s degree in Computer Science from University College Dublin, where I developed a strong interest in machine learning and data-driven modeling.
 
-  Email: suwen.jin [at] polimi.it
-
+Email: suwen.jin [at] polimi.it
