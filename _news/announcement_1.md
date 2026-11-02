@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start my PhD jounney at Politechnico di Milano.:sparkles: :smile:
+Start my PhD at Politechnico di Milano.:sparkles: :smile:
